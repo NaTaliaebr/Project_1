@@ -19,19 +19,19 @@ Q1: Comparing winners' booking performances Vs non-winners booking performances
 
 -In terms of red cards, winners and non-winners have identical trends and very stagnant over the years.
 
-Q2: How many times did the winning team score first in games vs non-winning teams?
+Q2.1: How many times did the winning team score first in games vs non-winning teams?
 
 -We can see that not only the gap between the 2 has increased over the years, winners have an increasing tendency and non winners have decreasing tendency. It shows that scoring first goal is a strong factor to become winner probably due to psychological effect.
 
-#Q3: Did a single player score most of the winning team’s goals throughout the tournament Vs non-wining team?
+#Q2.2: Did a single player score most of the winning team’s goals throughout the tournament Vs non-wining team?
 
 -Winning teams have a tendency to have more diverse (multiple high scoring players) , versus non winning teams have a tendency to have fewer high scoring players. Looking at the bar charts, the winning team’s best player scored 5 goals (more or less), the winning team’s best player scored 10 goals (more or less). Not only that, for the winning teams ,the average percentage scored by single player is 35%, versus for non winning team, the average percentage scored by single player is 50%.
 
-#Q4:how often the host country was the winning country as well as determining the trend in consecutive winners.
+#Q3:how often the host country was the winning country as well as determining the trend in consecutive winners.
 
 57% of the winners are from Europe , and the rest (43%) is from South America. All the winners came from only 2 regions in the history of FIFA. It is obvious that the region is the strong factor to become a winner.
 
-#Q5:To determine the range of penalty kicked, awarded and converted (scored) of the winners Vs non-winner
+#Q4:To determine the range of penalty kicked, awarded and converted (scored) of the winners Vs non-winner
 
 Looking at the scatter plots, the winning teams tend to have less number of penalty kicks received than non winning teams, but their conversion rate is higher than non winning teams. To be exact, the winning team had 4 penalty kicks in total , 2 out of 4 , the conversion rate is 100% and 2 out of 4 , the conversion rate is 80% (missed only one penalty goal). If you miss more than 1 penalty kick, the chances of becoming a FIFA winner is gonna be slim.
 
