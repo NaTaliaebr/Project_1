@@ -9,7 +9,7 @@ Myagmarsuren Budaasuren
 Muhammad Hassan
 
 ### Project Description / Outline:
-A person goes through a range of emotions while watching their country play the soccer game on the field. Failure, success, last minute winners, etc, are part of this beautiful game and a reason why this is the most watched spectacle. This game is about fine margins. Aside from emotions, there are several factors which distinguish a world cup winner from the rest. We as a data analytics team, have researched few factors and we will be presenting following analysis to our audience; 
+We have analyzed historical trend of FIFA in this analysis. To be more specific, we have chosen booking , first goal , top scorer , regional and penalty kicks as main focuses of our analysis. The goal of our analysis is that to determine if there is a significant difference between winners and non-winners in terms of the above mentioned areas.
 
 ### Research Questions & Analysis
 
@@ -19,18 +19,15 @@ Q1: Comparing winners' booking performances Vs non-winners booking performances
 
 -We can see that there is not a strong correlation between receiving more bookings and winning FIFA.
 
--For yellow cards: 7 out of 13 , winner received more yellow cards, 6 out of 13 - non winner received more yellow cards.
+-Over the years , average yellow card per game has been increased for both winners and non winners, but non- winners had higher increase than winners. P value is 0.03 
 
--For red cards: 5 out of 13 , winner received more red cards, 6 out of 13 - non winner received more red. cards. 2 out of 13, both received the same number of red cards.
+-In terms of red cards, winners and non-winners have identical trends and very stagnant over the years.
 
--However, We can see that bookings have increased over the years for yellow cards but not for red in both winners and non-winners. 
 
 
 Q2: How many times did the winning team score first in games vs non-winning teams?
 
--Looking at the bar chart, you can see that prior to 1980 there was a smaller discrepancy between winners and non winners scoring the first goal, however in recent years, winners have been scoring the first goal more frequently.
-
--Looking at the scatter plot, there is a strong tendency for the winners to have more games where they scored the first goal , compared to the non winning teams. 
+-We can see that not only the gap between the 2 has increased over the years, winners have an increasing tendency and non winners have decreasing tendency. It shows that scoring first goal is a strong factor to become winner probably due to psychological effect.
 
 #Q3: Did a single player score most of the winning team’s goals throughout the tournament Vs non-wining team?
 
@@ -47,18 +44,22 @@ Looking at the scatter plots, the winning teams tend to have less number of pena
 To be exact, the winning team had 4 penalty kicks in total , 2 out of 4 , the conversion rate is 100% and 2 out of 4 , the conversion rate is 80% (missed only one penalty goal). If you miss more than 1 penalty kick, the chances of becoming a FIFA winner is gonna be slim.
 
 
-Conclusion
+### Conclusion
+
+The below is the summary of our main findings from the analysis.
+-Winners have a tendency to receive less yellow cards per game on average than non-winners. In terms of red cards, there is no relevance.
+-Winners have been scoring the first goals at much higher percentage than non winners. The gap has been increasing over time.
+-Winners have more diverse scoring squad than non winners.
+-All the winners came from only 2 regions in the history of FIFA. ( Europe -57% , South America-43%)
+-Winners tend to have less number of penalty kicks received than non winning teams, but their conversion rate is higher than non winning teams .
 
 
 
+### Datasets 
+Kaggle: https://www.kaggle.com/datasets/piterfm/fifa-football-world-cup
+GitHub: https://github.com/jfjelstul/worldcup/tree/master/data-csv
 
-
-Datasets 
-
-Kaggle
-GitHub
-
-Rough Breakdown of Tasks
+### Breakdown of Tasks
 Data Extraction: Muhammad Hassan
 Data Transformation: Myagmarsuren Budaasuren
 Visualization: Elsa Figueroa
